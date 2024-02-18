@@ -1,0 +1,22 @@
+body {
+    background-color: blueviolet;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    background-color: #0a2670;
+    color: black;
+    padding: 20px 0;
+}
+
+button div {
+    padding: 0%;
+    box-sizing: border-box;
+    margin: 0%;
+    
+}
